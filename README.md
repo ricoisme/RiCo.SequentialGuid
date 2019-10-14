@@ -4,6 +4,8 @@ Following references:<br/>
 [talk about clustered index](https://dotblogs.com.tw/ricochen/2011/12/16/62448)<br/>
 [talk about clustered index again](https://dotblogs.com.tw/ricochen/2017/10/09/075800)
 
+it draw inspiration from [SanderSade's project](https://github.com/SanderSade/SequentialGuid).
+
 # Example
 you can call SequentialGuid.NewGuid() to got sequentialGuid and meet format of sql server.<br/>
 Following references:<br/>
